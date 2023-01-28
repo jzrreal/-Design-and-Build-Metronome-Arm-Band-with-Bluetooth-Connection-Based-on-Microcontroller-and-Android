@@ -11,4 +11,6 @@ Project includes FreeRTOS library for multitasking in order to maintain beats pe
    c. Increase : p
    d. Decrease : n
    e. Reset    : r
-4. Upload 
+4. Upload main.ino to ESP32 and run.
+
+## Schematic for ESP32
